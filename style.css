@@ -1,0 +1,21 @@
+h1 {
+color: red;
+  background-color: #e6e6fa;
+ 
+}
+body {
+background-color: green;
+}
+li{
+background-color: #e6e6fa;
+  color: red;
+  list-style:none;
+padding:20px 30px 20px 30px;
+}
+ul{
+display:flex;
+}
+.header {
+  background-color: #e6e6fa;  
+  height: 80px;
+}
